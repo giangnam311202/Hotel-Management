@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ad_QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CNCTPTP-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CNCTPTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangKyDichVu-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangKyDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KHACHTOIDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLDichVu-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLHoaDon-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLPhong-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLLoaiKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemHoaDon-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuePhong-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangChu-receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

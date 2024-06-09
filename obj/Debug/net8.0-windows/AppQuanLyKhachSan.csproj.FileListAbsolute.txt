@@ -1,0 +1,762 @@
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Phần mềm\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Users\pekki\Downloads\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ControlzEx.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MahApps.Metro.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn\AppQuanLyKhachSan\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ControlzEx.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MahApps.Metro.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+G:\Quan\SE104\DoAn-bak\AppQuanLyKhachSan\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQLKS.DangNhap.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\New folder (2)\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaHD.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\drive-download-20240528T022954Z-001\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaHD.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-manager\AppQuanLyKhachSan-manager\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu_receptionist.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaHD.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaPTP.resources
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Users\pekki\Downloads\AppQLKS\AppQLKS\AppQuanLyKhachSan-FN\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.exe
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.deps.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.runtimeconfig.json
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\FolderBrowserEx.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\MessageDialogManagerLib.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.Ad_QuanLy.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.CNCTPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.DangKyDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.KHACHTOIDA.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.LapPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.Properties.Resources.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLDoanhThu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLHoaDon.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiKhachHang.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.QLLoaiPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.QLPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemDichVu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemHoaDon.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThemPhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.ThuePhong.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu_receptionist.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\TrangChuQLKS.TrangChu.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaHD.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.XoaPTP.resources
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfoInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.AssemblyInfo.cs
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanL.0FBC1914.Up2Date
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\refint\AppQuanLyKhachSan.dll
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.pdb
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\AppQuanLyKhachSan.genruntimeconfig.cache
+C:\Disk D\Semester3\HK2\SE104-CNPM\Đồ án\Final\AppQuanLyKhachSan-Final\AppQuanLyKhachSan-Final\obj\Debug\net8.0-windows\ref\AppQuanLyKhachSan.dll
